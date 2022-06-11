@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/glossycode-language-f/static/css/main.adf073dd.css",
+    "main.js": "/glossycode-language-f/static/js/main.2d74a876.js",
+    "static/js/787.a888569e.chunk.js": "/glossycode-language-f/static/js/787.a888569e.chunk.js",
+    "static/media/project_backgroundPage.jpeg": "/glossycode-language-f/static/media/project_backgroundPage.f064b9fb6ebb69830423.jpeg",
+    "static/media/about_backgroundPage.webp": "/glossycode-language-f/static/media/about_backgroundPage.b70181d353ab0332a461.webp",
+    "static/media/web_design.jpeg": "/glossycode-language-f/static/media/web_design.23e930058a494b72ad15.jpeg",
+    "static/media/home_BackgroundPage.jpeg": "/glossycode-language-f/static/media/home_BackgroundPage.be92166199b5382dfd2d.jpeg",
+    "static/media/contactBackground.jpeg": "/glossycode-language-f/static/media/contactBackground.b8beaa9ab756bb45d547.jpeg",
+    "static/media/contact_BackgroundPage.jpeg": "/glossycode-language-f/static/media/contact_BackgroundPage.b8beaa9ab756bb45d547.jpeg",
+    "static/media/background2.jpeg": "/glossycode-language-f/static/media/background2.74734155c3db883b8e63.jpeg",
+    "static/media/spinner.gif": "/glossycode-language-f/static/media/spinner.d218b2b117babcb3ccb4.gif",
+    "index.html": "/glossycode-language-f/index.html",
+    "static/media/getFetch.cjs": "/glossycode-language-f/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.adf073dd.css.map": "/glossycode-language-f/static/css/main.adf073dd.css.map",
+    "main.2d74a876.js.map": "/glossycode-language-f/static/js/main.2d74a876.js.map",
+    "787.a888569e.chunk.js.map": "/glossycode-language-f/static/js/787.a888569e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf073dd.css",
+    "static/js/main.2d74a876.js"
+  ]
+}
